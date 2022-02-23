@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/studio_apartment/static/css/main.d0c81569.css",
+    "main.js": "/studio_apartment/static/js/main.93e0037e.js",
+    "static/media/background.jpg": "/studio_apartment/static/media/background.60210c0713fd194ea46f.jpg",
+    "static/media/D-DINExp.ttf": "/studio_apartment/static/media/D-DINExp.01efe866bc5a5f794a09.ttf",
+    "static/media/D-DINExp-Bold.ttf": "/studio_apartment/static/media/D-DINExp-Bold.35a92bb83fee12337983.ttf",
+    "index.html": "/studio_apartment/index.html",
+    "main.d0c81569.css.map": "/studio_apartment/static/css/main.d0c81569.css.map",
+    "main.93e0037e.js.map": "/studio_apartment/static/js/main.93e0037e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c81569.css",
+    "static/js/main.93e0037e.js"
+  ]
+}
